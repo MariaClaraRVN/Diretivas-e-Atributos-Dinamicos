@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # diretivas-ytb
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Diretivas-e-Atributos-Dinamicos
+Conceito de diretivas e argumentos dinâmicos em Vue 
+>>>>>>> fb22b1ee2381ff05ca7a5dee1017fbe0197266c2
